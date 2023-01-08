@@ -1,0 +1,15 @@
+F:\Projetos\ComissaoDeVendas\bin\Debug\net6.0\Comissao.exe
+F:\Projetos\ComissaoDeVendas\bin\Debug\net6.0\Comissao.deps.json
+F:\Projetos\ComissaoDeVendas\bin\Debug\net6.0\Comissao.runtimeconfig.json
+F:\Projetos\ComissaoDeVendas\bin\Debug\net6.0\Comissao.dll
+F:\Projetos\ComissaoDeVendas\bin\Debug\net6.0\Comissao.pdb
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.csproj.AssemblyReference.cache
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.AssemblyInfoInputs.cache
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.AssemblyInfo.cs
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.csproj.CoreCompileInputs.cache
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.dll
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\refint\Comissao.dll
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.pdb
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\Comissao.genruntimeconfig.cache
+F:\Projetos\ComissaoDeVendas\obj\Debug\net6.0\ref\Comissao.dll
